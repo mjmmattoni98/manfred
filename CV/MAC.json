@@ -100,7 +100,29 @@
             "finishDate": "2023-02-28",
             "challenges": [
               {
-                "description": "**RESPONSIBILITIES**\n\n- Investigating the most suitable technologies for the client's needs (rapid development and easy maintainability).\n- Developed a web application using NextJS and ExpressJS, enabling users to create customized CVs. Implemented seamless payment processing through StripeJS.\n- Crafted a minimalist and responsive user interface to simplify user interactions without compromising usability and aesthetics.\n\n**KEY ACCOMPLISHMENTS**\n\n- Improved the client’s feelings during the project by showing them how the project was improving across the sprints."
+                "description": "## Responsabilidades\n\n- Investigación de las tecnologías más adecuadas para las necesidades del cliente (desarrollo rápido y fácil mantenibilidad).\n- Desarrollo una aplicación web utilizando NextJS y ExpressJS, permitiendo a los usuarios crear CVs personalizados. Procesamiento de pagos a través de StripeJS.\n- Creación de una interfaz de usuario minimalista y adaptable para simplificar las interacciones de los usuarios sin comprometer la usabilidad ni la estética.\n\n## Principales logros\n\n- Mejora de las sensaciones del cliente durante el proyecto mostrándole cómo iba mejorando el proyecto a lo largo de los sprints."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
+                "type": "technology"
+              },
+              {
+                "name": "Swagger",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }
