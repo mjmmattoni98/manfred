@@ -53,7 +53,37 @@
             "startDate": "2022-11-01",
             "challenges": [
               {
-                "description": "**RESPONSIBILITIES**\n\n- Evaluating the most suitable technologies for our project given our specific requisites (trying to use already known technologies, convenient, good performance, and good developer experience). All the technologies were tested before deciding.\n- Implementing a webapp for managing psychologist centers and studies with Angular and Firebase following the TDD principles.\n- Migrating the Firebase back-end to our specific server implemented in Golang, gRPC, and Docker.\n- Manage cloud infrastructure in Google Cloud.\n\n**KEY ACCOMPLISHMENTS**\n\n- Enhanced the developer experience by transitioning from Material UI to NG Zorro and migrating from Cypress to Playwright.\n- Optimized application efficiency by minimizing redundant database queries and ensuring that frequently accessed data remains consistently available.\n- Prioritize optimal user experiences by engaging in constructive discussions with clients while implementing functionalities."
+                "description": "## Responsabilidades\n\n- Evaluar las tecnologías más adecuadas para nuestro proyecto dados nuestros requisitos específicos (intentar utilizar tecnologías ya conocidas, cómodas, con buen rendimiento y buena experiencia de los desarrolladores). Se probaron todas las tecnologías antes de decidir.\n- Implementación de una webapp para la gestión de centros y estudios de psicología con Angular y Firebase siguiendo los principios de TDD.\n- Migrar el back-end de Firebase a nuestro servidor específico implementado en Golang, gRPC y Docker.\n- Gestionar la infraestructura cloud en Google Cloud.\n\n## Principales logros\n\n- Mejora de la experiencia del desarrollador mediante la transición de Material UI a NG Zorro y la migración de Cypress a Playwright.\n- Optimización de la eficiencia de la aplicación minimizando las consultas redundantes a la base de datos y garantizando que los datos a los que se accede con frecuencia sigan estando disponibles de forma constante.\n- Priorizar experiencias de usuario óptimas participando en discusiones constructivas con los clientes mientras se implementan las funcionalidades."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Golang",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Playwright",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "gRPC",
+                "type": "technology"
               }
             ]
           }
