@@ -143,7 +143,29 @@
             "finishDate": "2021-12-31",
             "challenges": [
               {
-                "description": "**RESPONSIBILITIES**\n\n- Created a convolutional neural network (CNN) using TensorFlow in Python to predict various renal glomerulus pathologies.\n- Exploring strategies to address our limited image dataset through transfer learning and various data augmentation techniques, including duplication and transformation.\n\n**KEY ACCOMPLISHMENTS**\n\n- Enhanced model efficiency by optimizing data augmentation techniques, resulting in an accuracy boost from 60% to 88% for our dataset."
+                "description": "## Responsabilidades\n\n- Creación de una red neuronal convolucional (CNN) utilizando TensorFlow en Python para predecir diversas patologías del glomérulo renal.\n- Exploración de estrategias para abordar nuestro limitado conjunto de datos de imágenes mediante el aprendizaje por transferencia y diversas técnicas de aumento de datos, incluidas la duplicación y la transformación.\n- Desarrollo de scripts para manejar los datos guardados en el servidor y aplicarle las diferentes transformaciones necesarias para el entrenamiento.\n\n## Principales logros\n\n- Mejora de la eficacia del modelo mediante la optimización de las técnicas de aumento de datos, lo que se traduce en un aumento de la precisión del 60% al 88% para nuestro conjunto de datos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Numpy",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Scikit-learn",
+                "type": "technology"
+              },
+              {
+                "name": "TensorFlow",
+                "type": "technology"
               }
             ]
           }
