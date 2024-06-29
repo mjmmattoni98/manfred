@@ -437,7 +437,6 @@
         "DevOps & Infrastructure & SRE",
         "Full-stack Developer",
         "Machine Learning Engineer",
-        "Mobile Developer",
         "Research Developer",
         "Software Architect"
       ]
@@ -463,7 +462,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "I would like a job with flexibility about the technologies used, that are open-minded about the ideas of how to implement some solutions, and want to have good quality code. I HATE Java and Ionic.",
+    "desiredJobDescription": "Mi trabajo ideal me permitiría integrar dentro de mi día a día distintas acciones: trastear con soluciones nuevas, hacer pruebas de concepto, etc. y ponerlas en marcha. Un trabajo creativo y con resultados útiles hacia negocio. Me interesa tanto ser un gestor de personas como un contribuidor individual, mientras trabaje en un entorno transparente y con buen ambiente, donde no haya barreras entre el management y el resto del equipo. Preferiría no trabajar en una empresa donde tenga que lidiar con muchas migraciones y código legacy.\n\n",
     "goodPractices": "En mi actual trabajo intentamos aplicar buenas prácticas siempre que sea posible y donde tenga sentido como TDD, clean code, etc. Me considero una persona bastante resolutiva pero aprecio el pair programming cuando es necesario, pedir ayuda nunca está de más. Y he de admitir que me gusta demasiado estar al día con las nuevas tecnologías y las nuevas versiones."
   }
 }
