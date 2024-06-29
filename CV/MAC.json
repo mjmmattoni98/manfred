@@ -1,0 +1,410 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Marcos",
+      "surnames": "Javier M.",
+      "title": "Full-stack developer at GEOTEC UJI",
+      "description": "Soy un graduado en Ingeniería Informática de la Universidad Jaume I en Castellón. Soy un amante del Clean Code, y de aplicarlo donde merezca la pena hacerlo.\n\nEn mi tiempo libre me gusta quedar con mis amigos para tomar algo, y hacer ejercicio, ya que pasarse más de 8 horas al día sentado pasa factura 😅.\n\nMe considero bastante versátil en el ámbito profesional, me adapto a lo que se necesita:\n- Frontend con Angular, React o Svelte.\n- API REST con NestJS o API gRPC con Go.\n- O fullstack con lo que me manden.\n\nMe gusta tomar mis propias decisiones de implementación, eligiendo las mejores tecnologías para la tarea y como gestionar la evolución del proyecto (siempre comentándolo antes con mis jefes), pero también he estado en equipos con una estructura más clara y adaptándome a las decisiones de mis superiores.\n\n** ENGLISH **\n\nI am a graduate in Computer Engineering from the University Jaume I in Castellón. I am a lover of Clean Code, and apply it where it is worth doing.\n\nIn my free time, I like to meet my friends for a drink, and exercise, since spending more than 8 hours a day sitting takes its toll 😅.\n\nI consider myself quite versatile professionally, I adapt to whatever is needed:\n- Frontend with Angular, React, or Svelte.\n- REST API with NestJS or gRPC API with Go.\n- Or fullstack with whatever they send me.\n\nI like to make my own implementation decisions, choosing the best technologies for the task, and how to manage the evolution of the project (always discussing it before with my bosses), but I have also been in teams with a clearer structure and adapting to the decisions of my superiors.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/29/6a53ba8e-fa69-4fd2-8623-ec595ebcfd63_linkedin-photo-12262.linkedin-photo-12262",
+        "alt": "24/06/29/6a53ba8e-fa69-4fd2-8623-ec595ebcfd63_linkedin-photo-12262.linkedin-photo-12262"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJh14zFWtJYA0RWdoxvb4Vtuk)",
+        "country": "España",
+        "region": "Comunidad Valenciana"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Apasionado del deporte",
+        "fact": "Me encanta jugar al pádel y al tenis, además de ir al gimnasio."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/mjmmattoni"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/mjmmattoni98"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "GEOTEC: Geospatial Technologies Research Group - Universitat Jaume I",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/29/ccbbc759-41de-41c9-9a16-deda6d55f853_linkedin-photo-12262.linkedin-photo-12262",
+            "alt": "24/06/29/ccbbc759-41de-41c9-9a16-deda6d55f853_linkedin-photo-12262.linkedin-photo-12262"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2022-11-01",
+            "challenges": [
+              {
+                "description": "**RESPONSIBILITIES**\n\n- Evaluating the most suitable technologies for our project given our specific requisites (trying to use already known technologies, convenient, good performance, and good developer experience). All the technologies were tested before deciding.\n- Implementing a webapp for managing psychologist centers and studies with Angular and Firebase following the TDD principles.\n- Migrating the Firebase back-end to our specific server implemented in Golang, gRPC, and Docker.\n- Manage cloud infrastructure in Google Cloud.\n\n**KEY ACCOMPLISHMENTS**\n\n- Enhanced the developer experience by transitioning from Material UI to NG Zorro and migrating from Cypress to Playwright.\n- Optimized application efficiency by minimizing redundant database queries and ensuring that frequently accessed data remains consistently available.\n- Prioritize optimal user experiences by engaging in constructive discussions with clients while implementing functionalities."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Self-employed"
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2022-08-01",
+            "finishDate": "2023-02-28",
+            "challenges": [
+              {
+                "description": "**RESPONSIBILITIES**\n\n- Investigating the most suitable technologies for the client's needs (rapid development and easy maintainability).\n- Developed a web application using NextJS and ExpressJS, enabling users to create customized CVs. Implemented seamless payment processing through StripeJS.\n- Crafted a minimalist and responsive user interface to simplify user interactions without compromising usability and aesthetics.\n\n**KEY ACCOMPLISHMENTS**\n\n- Improved the client’s feelings during the project by showing them how the project was improving across the sprints."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universitat Jaume I",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/29/c7f2fa42-02a2-470d-b378-e98ed61ab297_linkedin-photo-12262.linkedin-photo-12262",
+            "alt": "24/06/29/c7f2fa42-02a2-470d-b378-e98ed61ab297_linkedin-photo-12262.linkedin-photo-12262"
+          }
+        },
+        "roles": [
+          {
+            "name": "Asistente de investigación",
+            "startDate": "2021-05-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": "**RESPONSIBILITIES**\n\n- Created a convolutional neural network (CNN) using TensorFlow in Python to predict various renal glomerulus pathologies.\n- Exploring strategies to address our limited image dataset through transfer learning and various data augmentation techniques, including duplication and transformation.\n\n**KEY ACCOMPLISHMENTS**\n\n- Enhanced model efficiency by optimizing data augmentation techniques, resulting in an accuracy boost from 60% to 88% for our dataset."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Dart",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Haskell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "gRPC",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Informática, Ciencias de la computación",
+        "startDate": "2017-09-01",
+        "institution": {
+          "name": "Universitat Jaume I",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/29/daf6a907-731f-4b2b-928b-a7e6ce37faef_linkedin-photo-12262.linkedin-photo-12262",
+            "alt": "24/06/29/daf6a907-731f-4b2b-928b-a7e6ce37faef_linkedin-photo-12262.linkedin-photo-12262"
+          }
+        },
+        "finishDate": "2022-09-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Matemáticas Computacional, Ciencias de la computación",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "Universitat Jaume I",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/29/d6801165-edbd-421c-b13c-adc8e9c58b5e_linkedin-photo-12262.linkedin-photo-12262",
+            "alt": "24/06/29/d6801165-edbd-421c-b13c-adc8e9c58b5e_linkedin-photo-12262.linkedin-photo-12262"
+          }
+        },
+        "finishDate": "2023-05-31"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/mjmmattoni",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/mjmmattoni98",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "javier.magni@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Dart",
+          "type": "technology"
+        },
+        {
+          "name": "Elixir",
+          "type": "technology"
+        },
+        {
+          "name": "Flutter",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Golang",
+          "type": "technology"
+        },
+        {
+          "name": "Haskell",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "Nuxt.js",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
+          "type": "technology"
+        },
+        {
+          "name": "Solidity",
+          "type": "technology"
+        },
+        {
+          "name": "Svelte",
+          "type": "technology"
+        },
+        {
+          "name": "Swift",
+          "type": "technology"
+        },
+        {
+          "name": "SwiftUI",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Ionic",
+          "type": "technology"
+        },
+        {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Machine Learning Engineer",
+        "Mobile Developer",
+        "Research Developer",
+        "Software Architect"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Google Cloud",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I would like a job with flexibility about the technologies used, that are open-minded about the ideas of how to implement some solutions, and want to have good quality code. I HATE Java and Ionic.",
+    "goodPractices": "Quality code, abstract thinking."
+  }
+}
