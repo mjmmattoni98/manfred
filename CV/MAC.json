@@ -414,24 +414,6 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [
-        {
-          "name": "Ionic",
-          "type": "technology"
-        },
-        {
-          "name": "Java",
-          "type": "technology"
-        },
-        {
-          "name": "JavaScript",
-          "type": "technology"
-        },
-        {
-          "name": "React Native",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Backend Developer",
         "DevOps & Infrastructure & SRE",
