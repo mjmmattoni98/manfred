@@ -230,20 +230,6 @@
           }
         },
         "finishDate": "2022-09-30"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Matemáticas Computacional, Ciencias de la computación",
-        "startDate": "2019-09-01",
-        "institution": {
-          "name": "Universitat Jaume I",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/29/d6801165-edbd-421c-b13c-adc8e9c58b5e_linkedin-photo-12262.linkedin-photo-12262",
-            "alt": "24/06/29/d6801165-edbd-421c-b13c-adc8e9c58b5e_linkedin-photo-12262.linkedin-photo-12262"
-          }
-        },
-        "finishDate": "2023-05-31"
       }
     ],
     "softSkills": [
