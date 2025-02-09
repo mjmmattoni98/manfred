@@ -341,6 +341,12 @@
       ],
       "contactMails": [
         "javier.magni@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "601050415",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
