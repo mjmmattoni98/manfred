@@ -85,6 +85,7 @@
           {
             "name": "Full-stack Developer",
             "startDate": "2022-11-01",
+            "finishDate": "2024-09-01",
             "challenges": [
               {
                 "description": "## Responsabilidades\n\n- Evaluar las tecnologías más adecuadas para nuestro proyecto dados nuestros requisitos específicos (intentar utilizar tecnologías ya conocidas, cómodas, con buen rendimiento y buena experiencia de los desarrolladores). Se probaron todas las tecnologías antes de decidir.\n- Implementación de una webapp para la gestión de centros y estudios de psicología con Angular y Firebase siguiendo los principios de TDD.\n- Migrar el back-end de Firebase a nuestro servidor específico implementado en Golang, gRPC y Docker.\n- Gestionar la infraestructura cloud en Google Cloud.\n\n## Principales logros\n\n- Mejora de la experiencia del desarrollador mediante la transición de Material UI a NG Zorro y la migración de Cypress a Playwright.\n- Optimización de la eficiencia de la aplicación minimizando las consultas redundantes a la base de datos y garantizando que los datos a los que se accede con frecuencia sigan estando disponibles de forma constante.\n- Priorizar experiencias de usuario óptimas participando en discusiones constructivas con los clientes mientras se implementan las funcionalidades."
