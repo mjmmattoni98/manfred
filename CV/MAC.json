@@ -41,6 +41,40 @@
     "jobs": [
       {
         "organization": {
+          "name": "Allfunds"
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2024-10-01",
+            "challenges": [
+              {
+                "description": "Responsabilidades\n- Implementar las necesidades del cliente en el proyecto hecho en NodeJS y Angular."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "GEOTEC: Geospatial Technologies Research Group - Universitat Jaume I",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/29/ccbbc759-41de-41c9-9a16-deda6d55f853_linkedin-photo-12262.linkedin-photo-12262",
