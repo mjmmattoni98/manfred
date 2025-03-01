@@ -173,33 +173,37 @@
         },
         "roles": [
           {
-            "name": "Asistente de investigación",
+            "name": "Software Engineer",
             "startDate": "2021-05-01",
             "finishDate": "2021-12-31",
             "challenges": [
               {
-                "description": "## Responsabilidades\n\n- Creación de una red neuronal convolucional (CNN) utilizando TensorFlow en Python para predecir diversas patologías del glomérulo renal.\n- Exploración de estrategias para abordar nuestro limitado conjunto de datos de imágenes mediante el aprendizaje por transferencia y diversas técnicas de aumento de datos, incluidas la duplicación y la transformación.\n- Desarrollo de scripts para manejar los datos guardados en el servidor y aplicarle las diferentes transformaciones necesarias para el entrenamiento.\n- Desarrollo de una webapp mínima en Django para visualizar los resultados del entrenamiento.\n\n## Principales logros\n\n- Mejora de la eficacia del modelo mediante la optimización de las técnicas de aumento de datos, lo que se traduce en un aumento de la precisión del 60% al 88% para nuestro conjunto de datos."
+                "description": "# Responsabilidades\n\n- Desarrollar una API REST usando NestJS con ExpressJS (y TypeScript) para consumir datos de nuestra base de datos en PostgreSQL con el ORM Prisma.\n- Documentar la API y los casos de uso con Swagger.\n- Diseñar la base de datos desde cero según nuestras necesidades.\n- Implementar mejoras a través de PRs en GitHub.\n- Eventualmente ayudar a implementar pequeñas funcionalidades en nuestra web implementada en Angular y Angular Material.\n\n## Principales logros\n\n- Desarrollar desde cero una API REST funcional usando NestJS y bien documentada con Swagger."
               }
             ],
             "competences": [
               {
-                "name": "Linux",
+                "name": "Angular2+",
                 "type": "technology"
               },
               {
-                "name": "Numpy",
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
-                "name": "Python",
+                "name": "PostgreSQL",
                 "type": "technology"
               },
               {
-                "name": "Scikit-learn",
+                "name": "Swagger",
                 "type": "technology"
               },
               {
-                "name": "TensorFlow",
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
                 "type": "technology"
               }
             ]
