@@ -425,10 +425,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Dart",
-          "type": "technology"
-        },
-        {
           "name": "Elixir",
           "type": "technology"
         },
