@@ -92,16 +92,20 @@
         "roles": [
           {
             "name": "Software Engineer",
-            "startDate": "2022-11-01",
+            "startDate": "2021-05-01",
             "finishDate": "2024-09-01",
             "challenges": [
               {
-                "description": "# Responsabilidades\n\n- Evaluar las tecnologías más adecuadas para nuestro proyecto dados nuestros requisitos específicos (intentar utilizar tecnologías ya conocidas, comodidad, buen rendimiento y buena experiencia del desarrollador). Se probaron todas las tecnologías antes de tomar una decisión.\n- Implementación de una API REST web para la gestión de psicólogos, centros y estudios con ExpressJS, PostgreSQL y Firebase (Firestore, funciones en la nube, almacenamiento, autenticación) siguiendo los principios de TDD.\n- Eventualmente ayudó en la implementación del front-end con Angular.\n- Implementado CI/CD con GitHub Actions para ejecutar pruebas y desplegar los cambios si todo es correcto.\n- Migrar el back-end en NodeJS y ExpressJS a un nuevo servidor implementado en Golang, gRPC y Docker.\n- Gestionar infraestructura cloud en Google Cloud (registro de artefactos, BigQuery).\n\n# Principales logros\n\n- Optimización de la eficiencia de la aplicación minimizando las consultas redundantes a la base de datos y garantizando que los datos a los que se accede con frecuencia permanezcan disponibles de forma constante.\n- Priorizar experiencias de usuario óptimas entablando conversaciones constructivas con los clientes mientras se implementan las funcionalidades."
+                "description": "# Responsabilidades\n\n- Evaluar las tecnologías más adecuadas para nuestro proyecto dados nuestros requisitos específicos (intentar utilizar tecnologías ya conocidas, comodidad, buen rendimiento y buena experiencia del desarrollador). Se probaron todas las tecnologías antes de tomar una decisión.\n- Implementación de una API REST para la gestión de psicólogos, centros y estudios\ncon NestJS utilizando ExpressJS (y TypeScript), PostgreSQL y\nFirebase (Firestore, funciones en la nube, almacenamiento, autenticación) siguiendo los principios TDD.\n- Implementado CI/CD con GitHub Actions para ejecutar pruebas y desplegar los cambios si todo es correcto.\n- Gestionar y actualizar los paquetes utilizados en el backend, migrando o\nactualizando las API si fuera necesario.\n- Implementar y mejorar un servidor con gRPC en Golang usando microservicios y\ndesplegado vía Docker a Google Cloud.\n- Gestionar la infraestructura de la nube en Google Cloud (artifact registry para gestionar las versiones de imágenes de docker, BigQuery para guardar grandes cantidades de datos para\nanálisis, storage bucket para guardar imágenes, serverless cloud functions).\n- Comunicarse tanto con el equipo móvil como con el de frontend para acordar qué\nnecesita cada uno, y cómo enfocar las necesidades y resolver los problemas.\n- Orientar a los nuevos empleados sobre cómo están estructurados los equipos y las tecnologías que utilizamos.\n- Comunicarse con el cliente para obtener feedback sobre las implementaciones actuales y entender las nuevas necesidades.\n\n# Principales logros\n\n- Optimización de la eficiencia de la aplicación minimizando las consultas redundantes a la base de datos y garantizando que los datos a los que se accede con frecuencia permanezcan disponibles de forma constante.\n- Priorizar experiencias de usuario óptimas entablando conversaciones constructivas con los clientes mientras se implementan las funcionalidades.\n- Implementado con éxito una comunicación óptima con los equipos web y móviles, centrándonos en la coherencia de los datos.\n- Adaptarse a las necesidades del producto, ayudando en la implementación en el frontend con React cuando fuera necesario.\n- Migrar nuestra base de datos inicial en PostgreSQL a BigQuery."
               }
             ],
             "competences": [
               {
                 "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "BigQuery",
                 "type": "technology"
               },
               {
@@ -130,6 +134,10 @@
               },
               {
                 "name": "Playwright",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
                 "type": "technology"
               },
               {
