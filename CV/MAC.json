@@ -49,7 +49,7 @@
             "startDate": "2024-10-01",
             "challenges": [
               {
-                "description": "# Responsabilidades\n\n- Implementar mejoras en el producto en base a las necesidades del cliente utilizando NodeJS con ExpressJS (y TypeScript) y Angular.\n- Modificar e implementar nuevas consultas en MongoDB.\n- Crear nuevos PRs con las nuevas modificaciones.\n- Desplegar los cambios en los servidores del cliente."
+                "description": "# Responsabilidades\n\n- Implementar mejoras en el producto en base a las necesidades del cliente utilizando NodeJS con ExpressJS (y TypeScript) y Angular.\n- Modificar e implementar nuevas consultas en MongoDB.\n- Crear nuevos PRs con las nuevas modificaciones.\n- Desplegar los cambios en los servidores del cliente.\n\n# Principales logros\n- Integrar una funcionalidad de blockchain de uno de nuestros clientes en nuestra aplicación."
               }
             ],
             "competences": [
