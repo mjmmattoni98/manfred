@@ -190,53 +190,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Universitat Jaume I",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/29/c7f2fa42-02a2-470d-b378-e98ed61ab297_linkedin-photo-12262.linkedin-photo-12262",
-            "alt": "24/06/29/c7f2fa42-02a2-470d-b378-e98ed61ab297_linkedin-photo-12262.linkedin-photo-12262"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2021-05-01",
-            "finishDate": "2021-12-31",
-            "challenges": [
-              {
-                "description": "# Responsabilidades\n\n- Desarrollar una API REST usando NestJS con ExpressJS (y TypeScript) para consumir datos de nuestra base de datos en PostgreSQL con el ORM Prisma.\n- Documentar la API y los casos de uso con Swagger.\n- Diseñar la base de datos desde cero según nuestras necesidades.\n- Implementar mejoras a través de PRs en GitHub.\n- Eventualmente ayudar a implementar pequeñas funcionalidades en nuestra web implementada en Angular y Angular Material.\n\n## Principales logros\n\n- Desarrollar desde cero una API REST funcional usando NestJS y bien documentada con Swagger."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Swagger",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "nestJS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
