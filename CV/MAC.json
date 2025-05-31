@@ -143,53 +143,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Self-employed"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2022-08-01",
-            "finishDate": "2023-02-28",
-            "challenges": [
-              {
-                "description": "# Responsabilidades\n\n- Investigar las tecnologías más adecuadas para las necesidades del cliente (desarrollo rápido y fácil mantenibilidad).\n- Desarrollado una aplicación web utilizando NextJS, NestJS con ExpressJS (y TypeScript), y MongoDB, permitiendo a los usuarios crear CVs personalizados. Implementación de procesamiento de pagos a través de StripeJS.\n- Diseñamos una interfaz de usuario minimalista y responsive para simplificar las interacciones del usuario sin comprometer la usabilidad y la estética.\n\n# Principales logros\n\n- Mejora de las sensaciones del cliente durante el proyecto mostrándole cómo iba mejorando el proyecto a lo largo de los sprints."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Stripe",
-                "type": "technology"
-              },
-              {
-                "name": "Swagger",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
