@@ -41,6 +41,48 @@
     "jobs": [
       {
         "organization": {
+          "name": "In2ai"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2025-10-01",
+            "challenges": [
+              {
+                "description": "- Diseñé soluciones full-stack de IA con Next.js y Node.js, e integré Python (con FastAPI) y LangChain para la lógica de negocio y flujos de agentes.\n\n- Diseñé e implementé un pipeline de CI/CD con despliegues de previsualización automatizados en Dokploy para agilizar las pruebas de QA y el testeo aislado de funcionalidades.\n\n- Integración de prácticas de desarrollo nativas de IA con Cursor y CodeRabbit para agilizar la revisión de código y acelerar el desarrollo."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "LangChain",
+                "type": "technology"
+              },
+              {
+                "name": "LangGraph",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Allfunds"
         },
         "roles": [
